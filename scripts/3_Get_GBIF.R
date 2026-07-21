@@ -16,9 +16,9 @@ library(stringr)
 #-------------------------------------
 
 options(
-  gbif_user  = "ben.mangnall",
-  gbif_email = "vr21539@bristol.ac.uk",
-  gbif_pwd   = "123456"
+  gbif_user  = "xxxx",
+  gbif_email = "xxxx",
+  gbif_pwd   = "xxxx"
 )
 
 #-------------------------------------
