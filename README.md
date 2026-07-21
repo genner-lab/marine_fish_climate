@@ -32,12 +32,12 @@ St_Croix_USVI_Fish_Assessment_and_Monitoring_Data.csv.gz
 The following processed data were used for analyses"
 
 Data.csv.gz Bound survey data, with corrected names and filted by depth (0-200m)  
-HADISST.csv.gz Processed relevant temperature data sourced from the Hadley Centre https://www.metoffice.gov.uk/hadobs/hadisst/  
+HADISST.csv.gz Processed relevant temperature data sourced from https://www.metoffice.gov.uk/hadobs/hadisst/  
 gbif_data_northern.csv.gz Downloaded records for surveyed species from GBIF  
 gbif_data_southern.csv.gz Downloaded survey for surveyed species from GBIF  
-abundances.csv.gz  Intermediary processing file, abundance of each species, per survey, grid cell and year, with temperature data  
-Survey_years_complete.csv.gz Intermediary processing file, with the temperature for every year between start and end of a time series
-final_abundance_changes.csv.gz Final analysed abundance time series data, filtered per survey, grid cell and year, with temperature data.
+abundances.csv.gz  Intermediary file, abundance of each species, per survey, grid cell and year, with temperature data  
+Survey_years_complete.csv.gz Intermediary file, with temperature for every year between start and end of a time series
+final_abundance_changes.csv.gz Final abundance time series data, filtered per survey, grid cell, year, with temperature.
 
 ***
 
